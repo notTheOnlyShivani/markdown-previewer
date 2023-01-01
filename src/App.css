@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  background-color: #62B6B7; 
+   height: 100%;
+}
+
+#header {
+  border: 1px solid black;
+  width: 687px;
+  padding: 5px;
+  margin: auto;
+  text-align: left;
+  font-weight: bold;
+  background-color: #439A97;
+  box-shadow: 2px 2px 40px -10px;
+}
+
+#editor {
+  padding: 15px;
+  background-color: #D4ECDD;
+  box-shadow: 2px 2px 40px -10px;
+}
+
+#preview {
+  width: 850px;
+  margin: auto;
+  border: 1px solid black;
+  text-align: left;
+  padding: 15px;
+  background-color: #D4ECDD;
+  box-shadow: 2px 2px 40px -10px;
+}
+
+.preview-header {
+  border: 1px solid black;
+  width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  text-align: left;
+  font-weight: bold;
+  background-color: #439A97;
+  box-shadow: 2px 2px 40px -10px;
+}
